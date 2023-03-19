@@ -5,6 +5,7 @@ const Home = () => {
        <div>
         <h2>Home</h2>
         <p>This is Home Section</p>
+        <p>Version2222</p>
        </div> 
     )
 }
